@@ -115,3 +115,16 @@ a:hover {
     font-size: 24px;
     padding: 10px 10px;
 }
+
+
+.pic{
+    display: inline-block;
+    position: relative;
+    padding-bottom: 10px;
+}
+.text{
+    display: inline-block;
+    float: right;
+    position: absolute;
+    padding-left: 10px;
+}
