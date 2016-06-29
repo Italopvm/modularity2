@@ -1,0 +1,117 @@
+/* ADD YOUR STYLES HERE */
+.square {
+    padding: 30px 30px 30px 30px;
+}
+
+.square2 {
+    float: left;
+    padding-left: 40px;
+}
+.square3 {
+    float: left;
+    padding-left: 70px;
+}
+
+.instruction-answer1 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.paddingLesson {
+    float:left;
+}
+
+.notDefault {
+    list-style: none;
+}
+.horizontal {
+    display: inline;
+}
+
+.button {
+    background-color: pink; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn1 {
+    padding: 30px 90px;
+    border-radius: 20px;
+}
+
+.btn2{
+    padding: 20px 75px;
+    
+}
+
+.btn3 {
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.button1{
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.nav1 {
+     background: pink;
+      border-radius: 20px;
+}
+
+.navbarList {
+    list-style:none;
+}
+
+.navLi {
+    display: inline;
+    padding: 20px 30px;
+    display:inline-block;
+    height: 40px;
+}
+
+.link1 {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+a:hover { 
+    background-color: aqua;
+}
+
+
+.list {
+    display: inline;
+    
+}
+
+.l1 {
+    text-decoration:none;
+}
+
+.pink {
+    color: pink;
+    font-size: 24px;
+    padding: 10px 10px;
+}
+
+.grey {
+    color: grey;
+    font-size: 24px;
+    padding: 10px 10px;
+}
